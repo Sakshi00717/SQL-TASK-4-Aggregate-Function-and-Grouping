@@ -5,7 +5,7 @@ The goal of this task is to learn and implement **aggregate functions** and the 
 
 ---
 
-### 🔍 Task Objectives:
+### 🔍 Concept Covered 
 - Learn how to aggregate numeric data like salaries or ages.
 - Group data by common fields (e.g., department).
 - Filter grouped results using the `HAVING` clause.
