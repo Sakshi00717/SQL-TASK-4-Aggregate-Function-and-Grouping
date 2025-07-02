@@ -19,5 +19,9 @@ The goal of this task is to learn and implement **aggregate functions** and the 
 
 ---
 
+## 📂 Files Included
+
+- `emp.sql`: Complete SQL script for table creation, inserts, and implementation of aggregate functions .
+- `screenshot.png`: Output of executed queries .
 
 
